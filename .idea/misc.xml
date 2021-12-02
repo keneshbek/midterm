@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/guest1/Desktop/midterm/app/src/main/res/drawable/circle.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/guest1/Desktop/midterm/app/src/main/res/layout/ProductDesignMeeting.xml" value="0.25" />
+        <entry key="..\:/Users/guest1/Desktop/midterm/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/guest1/Desktop/midterm/app/src/main/res/layout/activity_product_design_meeting2.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/guest1/Desktop/midterm/app/src/main/res/layout/product_design_meeting2.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
