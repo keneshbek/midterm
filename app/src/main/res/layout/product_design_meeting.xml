@@ -32,7 +32,7 @@
         android:layout_marginTop="492dp"
         android:textColor="@color/grey"
         android:fontFamily="@font/roboto_bold"
-        android:text="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu... more"
+        android:text="@string/lorem_ipsum_dolor_sit_amet_consectetuer_adipiscing_elit_aenean_commodo_ligula_eget_dolor_aenean_massa_cum_sociis_natoque_penatibus_et_magnis_dis_parturient_montes_nascetur_ridiculus_mus_donec_quam_felis_ultricies_nec_pellentesque_eu_more"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -64,7 +64,7 @@
         android:layout_marginStart="32dp"
         android:layout_marginTop="300dp"
         android:fontFamily="@font/roboto_bold"
-        android:text="Product Design meeting"
+        android:text="@string/product_design_meeting"
         android:textColor="#3A3A3A"
         android:textSize="24sp"
         app:layout_constraintStart_toStartOf="parent"
@@ -115,7 +115,7 @@
         android:layout_marginStart="28dp"
         android:layout_marginTop="652dp"
         android:fontFamily="@font/roboto_bold"
-        android:text="Interested:"
+        android:text="@string/interested"
         android:textColor="@color/blue"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
@@ -129,7 +129,7 @@
         android:layout_marginStart="28dp"
         android:layout_marginTop="612dp"
         android:fontFamily="@font/roboto_bold"
-        android:text="Attending:"
+        android:text="@string/attending"
         android:textColor="@color/blue"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
@@ -185,7 +185,7 @@
         android:layout_marginStart="220dp"
         android:layout_marginTop="714dp"
         android:fontFamily="@font/roboto_bold"
-        android:text="Create Pod"
+        android:text="@string/create_pod"
         android:textSize="18sp"
         android:textColor="@color/grey"
         app:layout_constraintStart_toStartOf="parent"
@@ -198,7 +198,7 @@
         android:layout_marginTop="364dp"
         android:fontFamily="@font/roboto_bold"
         android:textColor="@color/grey"
-        android:text="Free"
+        android:text="@string/free"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
@@ -211,7 +211,7 @@
         android:layout_marginTop="412dp"
         android:fontFamily="@font/roboto_bold"
         android:textColor="@color/grey"
-        android:text="Thursday, January 10th, 4:00 am"
+        android:text="@string/thursday_january_10th_4_00_am"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
@@ -225,7 +225,7 @@
         android:layout_marginTop="452dp"
         android:textColor="@color/grey"
         android:fontFamily="@font/roboto_bold"
-        android:text="Pivotal Labs, 875 Howard St., San Francisco, CA"
+        android:text="@string/pivotal_labs_875_howard_st_san_francisco_ca"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 

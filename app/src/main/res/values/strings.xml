@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">midterm</string>
+    <string name="create_pod">Create Pod</string>
+    <string name="lorem_ipsum_dolor_sit_amet_consectetuer_adipiscing_elit_aenean_commodo_ligula_eget_dolor_aenean_massa_cum_sociis_natoque_penatibus_et_magnis_dis_parturient_montes_nascetur_ridiculus_mus_donec_quam_felis_ultricies_nec_pellentesque_eu_more">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu... more</string>
+    <string name="pivotal_labs_875_howard_st_san_francisco_ca">Pivotal Labs, 875 Howard St., San Francisco, CA</string>
+    <string name="thursday_january_10th_4_00_am">Thursday, January 10th, 4:00 am</string>
+    <string name="free">Free</string>
+    <string name="product_design_meeting">Product Design meeting</string>
+    <string name="create_pod">Create Pod</string>
+    <string name="attending">Attending:</string>
+    <string name="interested">Interested:</string>
 </resources>

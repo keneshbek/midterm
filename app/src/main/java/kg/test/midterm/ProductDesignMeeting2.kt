@@ -10,5 +10,6 @@ class ProductDesignMeeting2 : AppCompatActivity() {
         setContentView(R.layout.product_design_meeting2)
 
 
+
     }
 }
